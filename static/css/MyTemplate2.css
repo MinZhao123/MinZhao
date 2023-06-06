@@ -107,7 +107,7 @@ blockquote {
 	font-size: 17px;
 	line-height: 1.6em;
 	font-style: italic;
-	font-family: Georgia, 'Times New Roman', Times, serif;		
+	font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;	
 	color: #303030;	
 	border: 1px solid #E8E8E8; 
 	background: #303030 url(../image/quote.gif) no-repeat 15px 15px;
@@ -355,7 +355,7 @@ input.button {
 	color: #7F7F7F;	
 	font-size: .9em;
 	
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
 	/* font-style: italic; */
 	font-weight: normal;
 }

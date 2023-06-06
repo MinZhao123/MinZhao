@@ -276,6 +276,7 @@ input.button {
 	color: #a09797;
 	font: bold 15px/45px 'Trebuchet MS', 'Helvetica Neue', Arial, sans-serif;
     text-decoration: none;
+	    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 }
 #nav ul li a:hover, 
 #nav ul li a:active {
@@ -299,7 +300,7 @@ input.button {
 #main h2 {
 	font: bold 2.2em 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
 	color: #0e0e0e; 
-	font-family: Times new roman;
+	    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 	padding: 10px 0 5px 5px; 	
 	margin-left: 5px;		
 	letter-spacing: -2px;

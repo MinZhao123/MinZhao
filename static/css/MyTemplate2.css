@@ -23,8 +23,8 @@ body {
 
 /* links */
 a, a:visited {	
-	color: #105979;
-	background: inherit;
+	color: #161617;
+	
 	text-decoration: none;
 }
 a:hover {
@@ -38,7 +38,7 @@ h1, h2, h3 {
 	font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
 	font-weight: Bold; 	
 	padding: 5px;		
-	color: #105979;	
+	color: #161617;	
 }
 h1 {
 	font-size: 2.9em;		
@@ -214,7 +214,8 @@ input.button {
 	font: bold 46px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
 	letter-spacing: -2.5px;
 	text-decoration: none;
-	color: #105979;
+	color: #1a1b1b;
+	font-family: Times new roman;
 	
 	/* change the values of top and left to adjust the position of the logo*/
 	top:10px; 
@@ -223,7 +224,7 @@ input.button {
 	position: absolute;
 	margin: 0; padding: 0;
 	font: bold 14px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
-	color: #105979;
+	color: #161617;
 	letter-spacing: -0.5px;
 	
 	/* change the values of top and left to adjust the position of the slogan*/
@@ -246,7 +247,7 @@ input.button {
  }
  #top-menu a {
  	font-weight: bold;
-	color: #105979;
+	color: #161617;
  }
 
 /* Navigation */
@@ -255,7 +256,7 @@ input.button {
 	padding: 0;	margin: 0;
 	width: 952px;
 	height: 50px;
-	background: #3A819F 
+	
 }
 #nav ul {
 	float: left;	
@@ -272,20 +273,20 @@ input.button {
 	float: left;
 	margin: 0;
 	padding: 0 15px 0 5px;
-	color: #FAFAFA;
+	color: #a09797;
 	font: bold 15px/45px 'Trebuchet MS', 'Helvetica Neue', Arial, sans-serif;
     text-decoration: none;
 }
 #nav ul li a:hover, 
 #nav ul li a:active {
-	color: #105979;	
+	color: #161617;	
 }
 #nav ul li#current {
-	background: transparent url(../image/left-tab.gif) no-repeat;	
+	
 }
 #nav ul li#current a {	
-	color: #105979;
-	background: transparent url(../image/right-tab.gif) no-repeat right top;	
+	color: #161617;
+	
 }
 
 /* Main Column */
@@ -297,14 +298,15 @@ input.button {
 }
 #main h2 {
 	font: bold 2.2em 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
-	color: #105979; 
+	color: #0e0e0e; 
+	font-family: Times new roman;
 	padding: 10px 0 5px 5px; 	
 	margin-left: 5px;		
 	letter-spacing: -2px;
 	border-bottom: 2px solid #FAFAFA; 	
 }
 #main h2 a {
-	color: #105979;
+	color: #161617;
 	text-decoration: none;		
 }
 #main ul li {
@@ -319,7 +321,7 @@ input.button {
 	display: inline;	
 }
 #sidebar h3 {
-	color: #105979; 
+	color: #161617; 
 	font: bold 2.2em 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
 	text-transform: none;
 	letter-spacing: -0.5px;

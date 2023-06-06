@@ -215,7 +215,7 @@ input.button {
 	letter-spacing: -2.5px;
 	text-decoration: none;
 	color: #1a1b1b;
-	font-family: Times new roman;
+	#font-family: Times new roman;
 	
 	/* change the values of top and left to adjust the position of the logo*/
 	top:10px; 

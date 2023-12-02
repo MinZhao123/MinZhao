@@ -22,16 +22,24 @@ body {
 }
 
 /* links */
-a, a:visited {	
-	color: #161617;
-	
-	text-decoration: none;
-}
-a:hover {
-	color: #3A819F;
-	background: inherit;
+a:link {
+    color:#FF0000;
+    text-decoration:underline;
+    }
+    a:visited {
+    color:#161617;
+    text-decoration:none;
+    }
+    a:hover {
+    color:#3A819F;
+    background: inherit;
 	text-decoration: underline;
-}
+    }
+    a:active {
+    color:#FFFFFF;
+    text-decoration:none;
+    }
+
 
 /* headers */
 h1, h2, h3 {

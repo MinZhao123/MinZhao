@@ -16,7 +16,7 @@
 
 body {
 	
-	font: 12px/170% "Times New Roman", Times, serif;
+	font: 16px/170% "Times New Roman", Times, serif;
 	color: #303030; 
 	text-align: center;	
 }
@@ -306,7 +306,7 @@ input.button {
 	display: inline;	
 }
 #main h2 {
-	font: bold 2.2em 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
+	font: bold 2.2em "Times New Roman", Times, serif;
 	color: #0e0e0e; 
 	    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
 	padding: 10px 0 5px 5px; 	
